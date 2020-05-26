@@ -1,2 +1,2 @@
-# Flash-Chat
+# Flash-Chat ⚡️
 A messenger app
