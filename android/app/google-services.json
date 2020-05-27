@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1021088049904",
+    "firebase_url": "https://flash-chat-daff2.firebaseio.com",
+    "project_id": "flash-chat-daff2",
+    "storage_bucket": "flash-chat-daff2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021088049904:android:84bffa63356ddc60577035",
+        "android_client_info": {
+          "package_name": "co.VishnuVarma.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021088049904-1lnqlukm3temacf2040ho8ae3fverb59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd55nhUMoEMk9HhsyFNbgGGH15emsxX0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021088049904-1lnqlukm3temacf2040ho8ae3fverb59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
